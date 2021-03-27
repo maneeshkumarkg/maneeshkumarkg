@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maneeshkumarkg
+- 👋 Hi, I’m @maneesh
 - 👀 I’m interested in Coding and Infrastructure As Code
 - 🌱 I’m currently learning Golang
 - 📫 Reach me on maneeshkumarkg@outlook.com
